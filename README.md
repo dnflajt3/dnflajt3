@@ -2,7 +2,7 @@ hi im rupang
 
 i like opensource culture
 
-make  game, website
+make  game and web
 
 ___
 
