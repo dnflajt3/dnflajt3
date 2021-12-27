@@ -1,9 +1,3 @@
-im rupang
-
-make  game and web
- 
-i like opensource culture
-
 
 ___
 
