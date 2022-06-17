@@ -20,7 +20,7 @@ Published
 
 <img src="https://user-images.githubusercontent.com/55172613/145524135-159eee38-961e-49e1-bbb4-b26fed52c26d.PNG" width="30px" height="30px">
 
-Dungeon Survival
+'Dungeon Survival' in playstore
 ___
 
 Current Making
